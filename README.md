@@ -1,5 +1,7 @@
 # The Way Of Programing - Python
 
+## Introduction
+
 Github repo: `introduction`
 
 Youtube Session - 23 Sep 2019:
