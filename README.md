@@ -15,3 +15,14 @@ Youtube Session - 23 Sep 2019:
 - String Slicing
 - Boolean Literals
 - A glimps of operators
+
+## String Methods/Functions
+
+Github repo: `strings`
+
+Youtube Session - 24 Sep 2019:
+[https://youtu.be/WKsmRRoB7zM]
+
+- string methods
+- dir(str)
+- help(str.lower)
