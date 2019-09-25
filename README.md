@@ -26,3 +26,14 @@ Youtube Session - 24 Sep 2019:
 - string methods
 - dir(str)
 - help(str.lower)
+
+## List Methods/Functions
+
+Github repo: `lists`
+
+Youtube Session - 24 Sep 2019:
+[https://youtu.be/UnT8dddljpc]
+
+- list methods
+- dir(list) -- to see all the attributes of an object
+- help(str.index) -- to get help
