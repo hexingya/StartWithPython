@@ -54,3 +54,16 @@ Youtube Session - 26 Sep 2019:
   - dir(frozenset)
     - help(tuple.count)
     - help(set.difference)
+
+## Dictionary Methods
+
+Github repo: `dictionary`
+
+Youtube Session - 27 Sep 2019:
+[https://youtu.be/GObu41XEtFQ]
+
+- dict
+- help
+  - dir(dict)
+    - help(dict.get)
+    - help(dict.setdefault)
