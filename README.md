@@ -67,3 +67,18 @@ Youtube Session - 27 Sep 2019:
   - dir(dict)
     - help(dict.get)
     - help(dict.setdefault)
+
+## Operators
+
+Github repo: `operators`
+
+Youtube Session - 28 Sep 2019:
+[https://youtu.be/darhn9RUm_0]
+
+- Arithmetic
+- Assignment
+- Comparison
+- Logical
+- Identity
+- Membership
+- Bitwise
