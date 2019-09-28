@@ -36,4 +36,4 @@ print(x)
 x *= y
 print(x)
 
-#  try test of the operators
+#  try Rest of the operators
