@@ -82,3 +82,15 @@ Youtube Session - 28 Sep 2019:
 - Identity
 - Membership
 - Bitwise
+
+## Control Statements
+
+Github repo: `control-statement`
+
+Youtube Session - 29 Sep 2019:
+[https://youtu.be/bPooaUISTV0]
+
+- if else
+- if elif else
+- while loop
+- for in loop
