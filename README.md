@@ -94,3 +94,17 @@ Youtube Session - 29 Sep 2019:
 - if elif else
 - while loop
 - for in loop
+
+## Functions
+
+Github repo: `functions`
+
+Youtube Session - 30 Sep 2019:
+[https://youtu.be/UeYkGIcLp8M]
+
+- defining function (def)
+- default argument
+- keyword argument
+- arbitrary arguments (\*args)
+- recursion
+- recursion depth
