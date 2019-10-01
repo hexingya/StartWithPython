@@ -108,3 +108,15 @@ Youtube Session - 30 Sep 2019:
 - arbitrary arguments (\*args)
 - recursion
 - recursion depth
+
+## Exception Handling(try...except...else...finally)
+
+Github repo: `try-except`
+
+Youtube Session - 1 Oct 2019:
+[https://youtu.be/0TcyIDfyB7E]
+
+- try catch
+- try catch else
+- try catch finally
+- try catch else finally
