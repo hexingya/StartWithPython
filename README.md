@@ -120,3 +120,13 @@ Youtube Session - 1 Oct 2019:
 - try catch else
 - try catch finally
 - try catch else finally
+
+## Debugging (VS Code & Thonny)
+
+Github repo: `debugging`
+
+Youtube Session - 2 Oct 2019:
+[https://youtu.be/9MImR9XgUCg]
+
+- Thonny (zero-configuration)
+- VS Code (configuration - launch.json)
