@@ -130,3 +130,24 @@ Youtube Session - 2 Oct 2019:
 
 - Thonny (zero-configuration)
 - VS Code (configuration - launch.json)
+
+## File Handling (File IO Operations)
+
+Github repo: `file-handling`
+
+Youtube Session - 3 Oct 2019:
+[https://youtu.be/VI43BaDwlPo]
+
+- Open function & mode
+- File descriptor
+- File descriptor methods
+  - read
+  - readline
+  - readlines
+  - write
+  - writelines
+- os module
+  - chdir
+  - mkdir
+  - rmdir
+  - remove
