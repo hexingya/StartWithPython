@@ -151,3 +151,18 @@ Youtube Session - 3 Oct 2019:
   - mkdir
   - rmdir
   - remove
+
+## JSON & File Handling
+
+Github repo: `file-handling-json`
+
+Youtube Session - 4 Oct 2019:
+[https://youtu.be/hDVfvYMcSu4]
+
+- JSON
+- json module
+  - loads()
+  - dumps()
+- requests module
+  - get()
+  - text
