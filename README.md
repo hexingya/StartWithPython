@@ -171,7 +171,7 @@ Youtube Session - 4 Oct 2019:
 
 Github repo: `revision1`
 
-Youtube Session - 4 Oct 2019:
+Youtube Session - 5 Oct 2019:
 [https://youtu.be/xZoj483FQFo]
 
 - Studied so far list
