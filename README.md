@@ -166,3 +166,12 @@ Youtube Session - 4 Oct 2019:
 - requests module
   - get()
   - text
+
+## Revision1
+
+Github repo: `revision1`
+
+Youtube Session - 4 Oct 2019:
+[https://youtu.be/xZoj483FQFo]
+
+- Studied so far list
