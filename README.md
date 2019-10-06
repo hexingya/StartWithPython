@@ -175,3 +175,15 @@ Youtube Session - 5 Oct 2019:
 [https://youtu.be/xZoj483FQFo]
 
 - Studied so far list
+
+## Classes
+
+Github repo: `classes`
+
+Youtube Session - 6 Oct 2019:
+[https://youtu.be/urpYsOMGyMM]
+
+- class
+- properties
+- methods
+- Inheritance
