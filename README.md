@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Github repo: `introduction`
+Github repo directory: `introduction`
 
 Youtube Session - 23 Sep 2019:
 [https://youtu.be/bysjZ_p4QHM]
@@ -18,7 +18,7 @@ Youtube Session - 23 Sep 2019:
 
 ## String Methods/Functions
 
-Github repo: `strings`
+Github repo directory: `strings`
 
 Youtube Session - 24 Sep 2019:
 [https://youtu.be/WKsmRRoB7zM]
@@ -29,7 +29,7 @@ Youtube Session - 24 Sep 2019:
 
 ## List Methods/Functions
 
-Github repo: `lists`
+Github repo directory: `lists`
 
 Youtube Session - 25 Sep 2019:
 [https://youtu.be/UnT8dddljpc]
@@ -40,7 +40,7 @@ Youtube Session - 25 Sep 2019:
 
 ## Tuple, Set and Frozenset Methods
 
-Github repo: `tuple-set-frozenset`
+Github repo directory: `tuple-set-frozenset`
 
 Youtube Session - 26 Sep 2019:
 [https://youtu.be/-VC1CfgT8FI]
@@ -57,7 +57,7 @@ Youtube Session - 26 Sep 2019:
 
 ## Dictionary Methods
 
-Github repo: `dictionary`
+Github repo directory: `dictionary`
 
 Youtube Session - 27 Sep 2019:
 [https://youtu.be/GObu41XEtFQ]
@@ -70,7 +70,7 @@ Youtube Session - 27 Sep 2019:
 
 ## Operators
 
-Github repo: `operators`
+Github repo directory: `operators`
 
 Youtube Session - 28 Sep 2019:
 [https://youtu.be/darhn9RUm_0]
@@ -85,7 +85,7 @@ Youtube Session - 28 Sep 2019:
 
 ## Control Statements
 
-Github repo: `control-statement`
+Github repo directory: `control-statement`
 
 Youtube Session - 29 Sep 2019:
 [https://youtu.be/bPooaUISTV0]
@@ -97,7 +97,7 @@ Youtube Session - 29 Sep 2019:
 
 ## Functions
 
-Github repo: `functions`
+Github repo directory: `functions`
 
 Youtube Session - 30 Sep 2019:
 [https://youtu.be/UeYkGIcLp8M]
@@ -111,7 +111,7 @@ Youtube Session - 30 Sep 2019:
 
 ## Exception Handling(try...except...else...finally)
 
-Github repo: `try-except`
+Github repo directory: `try-except`
 
 Youtube Session - 1 Oct 2019:
 [https://youtu.be/0TcyIDfyB7E]
@@ -123,7 +123,7 @@ Youtube Session - 1 Oct 2019:
 
 ## Debugging (VS Code & Thonny)
 
-Github repo: `debugging`
+Github repo directory: `debugging`
 
 Youtube Session - 2 Oct 2019:
 [https://youtu.be/9MImR9XgUCg]
@@ -133,7 +133,7 @@ Youtube Session - 2 Oct 2019:
 
 ## File Handling (File IO Operations)
 
-Github repo: `file-handling`
+Github repo directory: `file-handling`
 
 Youtube Session - 3 Oct 2019:
 [https://youtu.be/VI43BaDwlPo]
@@ -154,7 +154,7 @@ Youtube Session - 3 Oct 2019:
 
 ## JSON & File Handling
 
-Github repo: `file-handling-json`
+Github repo directory: `file-handling-json`
 
 Youtube Session - 4 Oct 2019:
 [https://youtu.be/hDVfvYMcSu4]
@@ -169,7 +169,7 @@ Youtube Session - 4 Oct 2019:
 
 ## Classes
 
-Github repo: `classes`
+Github repo directory: `classes`
 
 Youtube Session - 10 Oct 2019:
 [https://youtu.be/8ZeWC2WkVTM]
