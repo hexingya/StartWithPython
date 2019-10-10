@@ -1,39 +1,31 @@
 
-class Person:
-    '''Person is a class with two arguments'''
+class Rectangle(object):
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
 
-    def __init__(self, username, password):
-        self.username = username
-        self.password = password
+    def area(self):
+        return self.length * self.width
 
-    def info(self):
-        '''Introduces itself'''
-        print('My username is {} and password is {}'.format(
-            self.username, self.password))
-
-
-# person1 = Person("Rayan", "Soemize")
-
-# # print(person1.__doc__)
-# # print(Person.__doc__)
-# print(person1.info.__doc__)
+    def __str__(self):
+        return str((self.length, self.width))
 
 
-class Employee(Person):
-    '''Employee inherits Person'''
+class Square(Rectangle):
 
-    def __init__(self, username, password, salary):
-        super().__init__(username, password)
-        # Person.__init__(self, username, password) # save as above
-        self.salary = salary
+    def __init__(self, length, width, side):
+        super().__init__(length, width)
+        self.side = side
 
-    def info(self):
-        '''Introduces itself -- employee'''
-        print(
-            f'My credentials are username: {self.username}, password: {self.password}, salary: {self.salary} ')
+    def area(self):
+        return self.side ** 2
+
+    def __str__(self):
+        return str(self.side)
 
 
-e = Employee("One", "pass", 898856.56)
+sq = Square(5, 6, 50)
 
-print(e.salary)
-e.info()
+print(sq.length, sq.width, sq.side)
+# print(sq.area())
+print(sq)

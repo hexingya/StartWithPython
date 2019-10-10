@@ -1,26 +1,21 @@
 
-class Person:
+class Rectangle:
 
-    def __init__(self, name, age=100, *args, **kwargs):
-        self.name = name
-        self.age = age
-        self.restvalues = args
-        self.otherrestvalues = kwargs
+    count = 0  # class attribute
 
-    def greet(self):
-        print(f'Hello {self.name}! you are {self.age} year\'s old.')
-        print(self.restvalues)
-        print(self.otherrestvalues)
+    def __init__(self, length, width):
+        # instance attribtues
+        self.length = length
+        self.width = width
+        Rectangle.count += 1
+
+    def area(self):
+        return self.length * self.width
 
 
-p = Person("Jane")
-p2 = Person("Laxmi", 1, 4, 545, 5665, 900, a=4, b=34, c=0)
+r1 = Rectangle(4, 5)
+r2 = Rectangle(6, 7)
 
-p.greet()
-p.name = "Joya"
-p.age = 2
-print(p.name)
-print(p.age)
-
-print(p2.name)
-p2.greet()
+print(r1.area())
+print(r1.count)
+print(r2.count)

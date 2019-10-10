@@ -171,10 +171,21 @@ Youtube Session - 4 Oct 2019:
 
 Github repo: `classes`
 
-Youtube Session - 6 Oct 2019:
-[https://youtu.be/urpYsOMGyMM]
+Youtube Session - 10 Oct 2019:
+[https://youtu.be/8ZeWC2WkVTM]
 
-- class
-- properties
-- methods
+- Objects
+- Classes
+- Attributes
+- Methods
+- Instance Attributes
+- Class Attributes
+- Protected Attributes
+- Private Attributes
+- property()
+- setter, getter, deleter
+- Sepecial/Magic/Dunder Methods
+- Operator Overloading
 - Inheritance
+- super()
+- Method Overriding
