@@ -189,3 +189,15 @@ Youtube Session - 10 Oct 2019:
 - Inheritance
 - super()
 - Method Overriding
+
+## Modules
+
+Github repo directory: `learning-modules`
+
+Youtube Session - 11 Oct 2019:
+[https://youtu.be/jtKjOqksMi4]
+
+- module
+- `import` statement
+- `from` statement
+- `__name__` special variable
