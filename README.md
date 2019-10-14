@@ -189,3 +189,16 @@ Youtube Session - 10 Oct 2019:
 - Inheritance
 - super()
 - Method Overriding
+
+## Modules & Packages
+
+Github repo directory: `modules-packages`
+
+Youtube Session - 14 Oct 2019:
+[https://youtu.be/jbz7cZEyxVo]
+
+- modules
+- `__name__`
+- packages
+- sub-packages
+- `__init__.py`
