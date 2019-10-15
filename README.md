@@ -202,3 +202,13 @@ Youtube Session - 14 Oct 2019:
 - packages
 - sub-packages
 - `__init__.py`
+
+## Regular Expression
+
+Github repo directory: `regex`
+
+Youtube Session - 15 Oct 2019:
+[https://youtu.be/26wRWUxp5jM]
+
+- pattern
+- re module
