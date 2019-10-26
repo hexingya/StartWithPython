@@ -212,3 +212,12 @@ Youtube Session - 15 Oct 2019:
 
 - pattern
 - re module
+
+## Python mysql-connector driver
+
+Repo directory: `mysql-connector-driver`
+
+Youtube Session - 26 Oct 2019:
+[https://youtu.be/qu62Y3_w3yA]
+
+- `mysql-connector` module
